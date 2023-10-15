@@ -1,0 +1,65 @@
+body { 
+    font-family: "Verdana", sans-serif;
+    background-color: white;
+    margin-right: 140px; 
+    margin-left: 140px; 
+}
+.profilecontainer {
+    margin-top: 40px; 
+    display: flex;
+    justify-content: center;
+}
+.profile {
+    height: 340px;
+    border-radius: 180px; 
+}
+.infoname {
+    font-size: 40px;
+    font-weight: bold;
+}
+.infotext {
+    font-size: 20px;
+    font-weight: bold;
+}
+.infocontainer {
+    display: flex;
+    justify-content: center;
+    text-align: center ;
+}
+.info {
+    border-radius: 30px; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+}
+.text {
+    background-color: white; 
+    border-radius: 30px; 
+    margin-top: 20px; 
+    text-align: justify; 
+    background-color: #66ffff;
+    font-size: 20px; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+.city {
+    border-radius: 30px;
+    height: 100%; 
+}
+.citycontainer {
+    justify-content: center;
+    display: flex; 
+}
+.linktoaccounts { 
+    justify-content: space-between;
+    border-radius: 30px; 
+    margin-top: 20px; 
+    text-align: center; 
+    font-weight: bold;
+    font-size: 20px; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
